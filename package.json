@@ -1,5 +1,5 @@
 {
-  "name": "herwin-cli",
+  "name": "create-herwin-app",
   "version": "1.0.0",
   "description": "Herwin CLI app",
   "main": "create-app.js",
