@@ -1,0 +1,17 @@
+{
+  "name": "herwin-cli",
+  "version": "1.0.0",
+  "description": "Herwin CLI app",
+  "main": "create-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^5.0.1"
+  },
+  "bin": {
+    "create-herwin-app": "./create-app.js"
+  }
+}
